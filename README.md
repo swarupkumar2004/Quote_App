@@ -35,9 +35,6 @@ pip install streamlit sentence-transformers faiss-cpu pandas numpy
 ```bash
 python -m streamlit run app.py / streamlit run app.py
 ```
-
-Visit [http://localhost:8501](http://localhost:8501) in your browser.
-
 ---
 
 ## ✨ Features
