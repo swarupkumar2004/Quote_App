@@ -22,20 +22,6 @@ Build a semantic search engine that returns relevant quotes based on a user quer
 - Streamlit UI for interactive input/output
 
 ---
-
-## 📂 Project Structure
-
-```
-
-.
-├── english\_quotes\_cleaned.csv   # Cleaned dataset
-├── app.py                       # Streamlit web app
-├── README.md                    # You're here
-
-````
-
----
-
 ## 🚀 How to Run
 
 ### 🔧 Install Required Libraries
