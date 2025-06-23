@@ -91,10 +91,3 @@ Used the [Abirate/english\_quotes](https://huggingface.co/datasets/Abirate/engli
 * `faiss-cpu` for similarity search
 * `streamlit` for web interface
 * `pandas`, `numpy` for preprocessing
-
-🟢 Ready to paste directly into your `README.md` file.
-
-Bol agar:
-- `haan video script bhi de do` 🎥
-- ya `task 1 ka readme bhi chahiye` 📄
-```
