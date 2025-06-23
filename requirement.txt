@@ -1,0 +1,5 @@
+streamlit                # For creating the web interface
+pandas                   # For handling and processing the dataset
+numpy                    # For numerical operations (e.g., embeddings)
+faiss-cpu                # For fast vector similarity search
+sentence-transformers    # For generating semantic embeddings
